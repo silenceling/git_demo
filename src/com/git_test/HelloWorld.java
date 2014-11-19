@@ -6,6 +6,7 @@ public class HelloWorld {
 		System.out.println("hi,git\n");
 		System.out.println("hi,helloworld!");
 		System.out.println("git pull is testing ok!");
+		System.out.println("testing is very good!");
 
 	}
 
